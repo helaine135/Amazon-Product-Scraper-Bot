@@ -2,6 +2,16 @@
 
 This project automates structured product data extraction from the Amazon Android app—capturing titles, prices, ratings, images, and availability at scale. It removes repetitive, error-prone tapping and copy-pasting by orchestrating real devices and emulators with human-like flows. The result: reliable, export-ready product catalogs for analytics, monitoring, or feed ingestion.
 
+<p align="center">
+  <a href="https://Appilot.app" target="_blank"><img src="media/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
+</p>
+<p align="center">
+ <a href="https://t.me/devpilot1" target="_blank"><img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+ <a href="mailto:support@appilot.app" target="_blank"><img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+ <a href="https://appilot.app" target="_blank"><img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+ <a href="https://discord.gg/r5sJ5vhf" target="_blank"><img src="https://img.shields.io/badge/Join-Appilot_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Appilot Discord"></a>
+</p>
+
 <p align="center"> 
    Created by Appilot, built to showcase our approach to Automation!<br>
    <strong>If you are looking for custom Amazon Product Scraper Bot, you've just found your team — Let’s Chat.👆👆</strong>
