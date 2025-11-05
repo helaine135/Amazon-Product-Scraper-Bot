@@ -52,7 +52,7 @@ This project automates structured product data extraction from the Amazon Androi
 </p>
 <p align="center">
   <a href="https://appilot.app" target="_blank">
-    <img src="media/amazon-product-scraper-bot-banner.png" alt="amazon-product-scraper-bot-architecture" width="95%">
+    <img src="media/amazon_scraper_banner.html" alt="amazon-product-scraper-bot-architecture" width="95%">
   </a>
 </p>
 
